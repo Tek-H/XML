@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<netflix>
+    <peliculas>
+        <pelicula id="1">
+            <titulo>Gladiator</titulo>
+            <genero>Drama histórico</genero>
+            <fecha>2000</fecha>
+        </pelicula>
+        <pelicula id="2">
+            <titulo>Inception</titulo>
+            <genero>Ciencia ficción</genero>
+            <fecha>2010</fecha>
+        </pelicula>
+        <pelicula id="3">
+            <titulo>El Padrino</titulo>
+            <genero>Drama</genero>
+            <fecha>1972</fecha>
+        </pelicula>
+        <pelicula id="4">
+            <titulo>Interstellar</titulo>
+            <genero>Ciencia ficción</genero>
+            <fecha>2014</fecha>
+        </pelicula>
+    </peliculas>
+
+    <series>
+        <serie id="1">
+            <titulo>Breaking Bad</titulo>
+            <genero>Drama</genero>
+            <fecha>2008</fecha>
+        </serie>
+        <serie id="2">
+            <titulo>Stranger Things</titulo>
+            <genero>Ciencia ficción</genero>
+            <fecha>2016</fecha>
+        </serie>
+        <serie id="3">
+            <titulo>La Casa de Papel</titulo>
+            <genero>Suspenso</genero>
+            <fecha>2017</fecha>
+        </serie>
+        <serie id="4">
+            <titulo>Dark</titulo>
+            <genero>Misterio</genero>
+            <fecha>2017</fecha>
+        </serie>
+    </series>
+
+    <documentales>
+        <documental id="1">
+            <titulo>Planet Earth</titulo>
+            <contenido>Naturaleza</contenido>
+            <episodios>11</episodios>
+        </documental>
+        <documental id="2">
+            <titulo>Blackfish</titulo>
+            <contenido>Sociedad</contenido>
+            <episodios>1</episodios>
+        </documental>
+        <documental id="3">
+            <titulo>Ancient Aliens</titulo>
+            <contenido>Conspiracion</contenido>
+            <episodios>220</episodios>
+        </documental>
+        <documental id="4">
+            <titulo>La historia de Kiss</titulo>
+            <contenido>Biografia</contenido>
+            <episodios>1</episodios>
+        </documental>
+    </documentales>
+</netflix>
