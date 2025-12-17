@@ -5,22 +5,22 @@
         <pelicula id="1">
             <titulo>Gladiator</titulo>
             <genero>Drama histórico</genero>
-            <fecha>2000</fecha>
+            <anio>2000</anio>
         </pelicula>
         <pelicula id="2">
             <titulo>Inception</titulo>
             <genero>Ciencia ficción</genero>
-            <fecha>2010</fecha>
+            <anio>2010</anio>
         </pelicula>
         <pelicula id="3">
             <titulo>El Padrino</titulo>
             <genero>Drama</genero>
-            <fecha>1972</fecha>
+            <anio>1972</anio>
         </pelicula>
         <pelicula id="4">
             <titulo>Interstellar</titulo>
             <genero>Ciencia ficción</genero>
-            <fecha>2014</fecha>
+            <anio>2014</anio>
         </pelicula>
     </peliculas>
 
@@ -28,22 +28,22 @@
         <serie id="1">
             <titulo>Breaking Bad</titulo>
             <genero>Drama</genero>
-            <fecha>2008</fecha>
+            <anio>2008</anio>
         </serie>
         <serie id="2">
             <titulo>Stranger Things</titulo>
             <genero>Ciencia ficción</genero>
-            <fecha>2016</fecha>
+            <anio>2016</anio>
         </serie>
         <serie id="3">
             <titulo>La Casa de Papel</titulo>
             <genero>Suspenso</genero>
-            <fecha>2017</fecha>
+            <anio>2017</anio>
         </serie>
         <serie id="4">
             <titulo>Dark</titulo>
             <genero>Misterio</genero>
-            <fecha>2017</fecha>
+            <anio>2017</anio>
         </serie>
     </series>
 
